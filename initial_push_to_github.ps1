@@ -11,6 +11,8 @@ if (!(Test-Path ".git")) {
     git init
 }
 
+
+
 # Set Git remote (if not already set)
 $remoteExists = git remote -v
 if ($remoteExists -notmatch "origin") {
