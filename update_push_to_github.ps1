@@ -2,7 +2,7 @@
 $commitMessage = "Updated Streamlit app"
 
 # Navigate to project directory
-cd C:\Users\your-user\streamlit_app
+cd C:\Users\spande46\Downloads\streamlit_app
 
 # Verify the remote repository (optional check)
 $remoteExists = git remote -v
