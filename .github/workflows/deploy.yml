@@ -1,0 +1,16 @@
+name: Deploy Streamlit App
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: self-hosted  # Runs on  local Windows machine
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Run Deployment Script on Windows
+        run: powershell -ExecutionPolicy Bypass -File C:\Users\spande46\Downloads\streamlit_app\update_and_restart.ps1
