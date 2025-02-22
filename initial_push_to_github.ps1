@@ -3,7 +3,7 @@ $repoURL = "https://github.com/shashankpandey27/StreamlitApp_Deploy.git"  # Repl
 $commitMessage = "Initial commit - Streamlit app setup"
 
 # Navigate to project directory
-cd C:\Users\your-user\streamlit_app
+cd C:\Users\spande46\Downloads\streamlit_app
 
 # Initialize Git repository (if not already initialized)
 if (!(Test-Path ".git")) {
