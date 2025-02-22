@@ -1,9 +1,0 @@
-﻿{
-  "agentId": 2,
-  "agentName": "self-hosted",
-  "poolId": 1,
-  "poolName": "Default",
-  "serverUrl": "https://pipelinesghubeus3.actions.githubusercontent.com/AyDAPIb5VCF2gZR5youabJnTFnO9DDRm6vSFq8q4mRKrg07Hzp/",
-  "gitHubUrl": "https://github.com/shashankpandey27/StreamlitApp_Deploy",
-  "workFolder": "_work"
-}
