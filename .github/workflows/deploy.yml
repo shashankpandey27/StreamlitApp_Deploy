@@ -13,4 +13,4 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Run Deployment Script on Windows
-        run: powershell -ExecutionPolicy Bypass -File C:\Users\spande46\Downloads\streamlit_app\update_and_restart_streamlit_app.ps1
+        run: powershell -ExecutionPolicy Bypass -File C:\Users\spande46\Downloads\streamlit_app\update_and_restart_streamlit_app.ps1  ## this needs to be run in the terminal during deployment. once the script is invoked then it gets deployed using runners 

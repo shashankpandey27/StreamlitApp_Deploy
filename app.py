@@ -5,4 +5,4 @@ st.write("This app is running as a Windows Scheduled Task!")
 
 st.write("Updated: CI/CD without SSH on Windows!")
 
-st.write("new: CI/CD without SSH on Windows!")
+#st.write("new: CI/CD without SSH on Windows!")
