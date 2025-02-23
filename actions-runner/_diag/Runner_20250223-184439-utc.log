@@ -1,0 +1,322 @@
+[2025-02-23 18:44:39Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2025-02-23 18:44:39Z INFO HostContext] Well known directory 'Bin': 'C:\Users\spande46\Downloads\streamlit_app\actions-runner\bin'
+[2025-02-23 18:44:39Z INFO HostContext] Well known directory 'Root': 'C:\Users\spande46\Downloads\streamlit_app\actions-runner'
+[2025-02-23 18:44:39Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\spande46\Downloads\streamlit_app\actions-runner\.credentials'
+[2025-02-23 18:44:40Z INFO HostContext] Well known directory 'Bin': 'C:\Users\spande46\Downloads\streamlit_app\actions-runner\bin'
+[2025-02-23 18:44:40Z INFO HostContext] Well known directory 'Root': 'C:\Users\spande46\Downloads\streamlit_app\actions-runner'
+[2025-02-23 18:44:40Z INFO HostContext] Well known config file 'Runner': 'C:\Users\spande46\Downloads\streamlit_app\actions-runner\.runner'
+[2025-02-23 18:44:40Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2025-02-23 18:44:40Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.22631.
+[2025-02-23 18:44:40Z INFO Listener] Version: 2.322.0
+[2025-02-23 18:44:40Z INFO Listener] Commit: 0edc478ca75d0a753dcbcec7405f3f26db67b1ac
+[2025-02-23 18:44:40Z INFO Listener] Culture: en-US
+[2025-02-23 18:44:40Z INFO Listener] UI Culture: en-US
+[2025-02-23 18:44:40Z INFO HostContext] Well known directory 'Bin': 'C:\Users\spande46\Downloads\streamlit_app\actions-runner\bin'
+[2025-02-23 18:44:40Z INFO HostContext] Well known directory 'Root': 'C:\Users\spande46\Downloads\streamlit_app\actions-runner'
+[2025-02-23 18:44:40Z INFO Listener] Validating directory permissions for: 'C:\Users\spande46\Downloads\streamlit_app\actions-runner'
+[2025-02-23 18:44:40Z INFO CommandLineParser] Parse
+[2025-02-23 18:44:40Z INFO CommandLineParser] Parsing 1 args
+[2025-02-23 18:44:40Z INFO CommandLineParser] parsing argument
+[2025-02-23 18:44:40Z INFO CommandLineParser] HasArgs: False
+[2025-02-23 18:44:40Z INFO CommandLineParser] Adding Command: run
+[2025-02-23 18:44:40Z INFO Listener] Arguments parsed
+[2025-02-23 18:44:40Z INFO Runner] ExecuteCommand
+[2025-02-23 18:44:40Z INFO ConfigurationStore] currentAssemblyLocation: C:\Users\spande46\Downloads\streamlit_app\actions-runner\bin\Runner.Listener.dll
+[2025-02-23 18:44:40Z INFO HostContext] Well known directory 'Bin': 'C:\Users\spande46\Downloads\streamlit_app\actions-runner\bin'
+[2025-02-23 18:44:40Z INFO ConfigurationStore] binPath: C:\Users\spande46\Downloads\streamlit_app\actions-runner\bin
+[2025-02-23 18:44:40Z INFO HostContext] Well known directory 'Bin': 'C:\Users\spande46\Downloads\streamlit_app\actions-runner\bin'
+[2025-02-23 18:44:40Z INFO HostContext] Well known directory 'Root': 'C:\Users\spande46\Downloads\streamlit_app\actions-runner'
+[2025-02-23 18:44:40Z INFO ConfigurationStore] RootFolder: C:\Users\spande46\Downloads\streamlit_app\actions-runner
+[2025-02-23 18:44:40Z INFO HostContext] Well known directory 'Bin': 'C:\Users\spande46\Downloads\streamlit_app\actions-runner\bin'
+[2025-02-23 18:44:40Z INFO HostContext] Well known directory 'Root': 'C:\Users\spande46\Downloads\streamlit_app\actions-runner'
+[2025-02-23 18:44:40Z INFO HostContext] Well known config file 'Runner': 'C:\Users\spande46\Downloads\streamlit_app\actions-runner\.runner'
+[2025-02-23 18:44:40Z INFO ConfigurationStore] ConfigFilePath: C:\Users\spande46\Downloads\streamlit_app\actions-runner\.runner
+[2025-02-23 18:44:40Z INFO HostContext] Well known directory 'Bin': 'C:\Users\spande46\Downloads\streamlit_app\actions-runner\bin'
+[2025-02-23 18:44:40Z INFO HostContext] Well known directory 'Root': 'C:\Users\spande46\Downloads\streamlit_app\actions-runner'
+[2025-02-23 18:44:40Z INFO HostContext] Well known config file 'Credentials': 'C:\Users\spande46\Downloads\streamlit_app\actions-runner\.credentials'
+[2025-02-23 18:44:40Z INFO ConfigurationStore] CredFilePath: C:\Users\spande46\Downloads\streamlit_app\actions-runner\.credentials
+[2025-02-23 18:44:40Z INFO HostContext] Well known directory 'Bin': 'C:\Users\spande46\Downloads\streamlit_app\actions-runner\bin'
+[2025-02-23 18:44:40Z INFO HostContext] Well known directory 'Root': 'C:\Users\spande46\Downloads\streamlit_app\actions-runner'
+[2025-02-23 18:44:40Z INFO HostContext] Well known config file 'MigratedCredentials': 'C:\Users\spande46\Downloads\streamlit_app\actions-runner\.credentials_migrated'
+[2025-02-23 18:44:40Z INFO ConfigurationStore] MigratedCredFilePath: C:\Users\spande46\Downloads\streamlit_app\actions-runner\.credentials_migrated
+[2025-02-23 18:44:40Z INFO HostContext] Well known directory 'Bin': 'C:\Users\spande46\Downloads\streamlit_app\actions-runner\bin'
+[2025-02-23 18:44:40Z INFO HostContext] Well known directory 'Root': 'C:\Users\spande46\Downloads\streamlit_app\actions-runner'
+[2025-02-23 18:44:40Z INFO HostContext] Well known config file 'Service': 'C:\Users\spande46\Downloads\streamlit_app\actions-runner\.service'
+[2025-02-23 18:44:40Z INFO ConfigurationStore] ServiceConfigFilePath: C:\Users\spande46\Downloads\streamlit_app\actions-runner\.service
+[2025-02-23 18:44:40Z INFO CommandSettings] Flag 'help': 'False'
+[2025-02-23 18:44:40Z INFO CommandSettings] Flag 'version': 'False'
+[2025-02-23 18:44:40Z INFO CommandSettings] Flag 'commit': 'False'
+[2025-02-23 18:44:40Z INFO CommandSettings] Flag 'check': 'False'
+[2025-02-23 18:44:40Z INFO CommandSettings] Command 'configure': 'False'
+[2025-02-23 18:44:40Z INFO CommandSettings] Command 'remove': 'False'
+[2025-02-23 18:44:40Z INFO CommandSettings] Command 'warmup': 'False'
+[2025-02-23 18:44:40Z INFO ConfigurationManager] LoadSettings
+[2025-02-23 18:44:40Z INFO ConfigurationStore] IsConfigured()
+[2025-02-23 18:44:40Z INFO ConfigurationStore] IsConfigured: True
+[2025-02-23 18:44:40Z INFO ConfigurationManager] Is configured: True
+[2025-02-23 18:44:40Z INFO ConfigurationStore] Read setting file: 322 chars
+[2025-02-23 18:44:40Z INFO ConfigurationManager] Settings Loaded
+[2025-02-23 18:44:40Z INFO ConfigurationStore] IsServiceConfigured()
+[2025-02-23 18:44:40Z INFO ConfigurationStore] IsServiceConfigured: False
+[2025-02-23 18:44:40Z INFO CommandSettings] Command 'run': 'True'
+[2025-02-23 18:44:40Z INFO ConfigurationStore] IsConfigured()
+[2025-02-23 18:44:40Z INFO ConfigurationStore] IsConfigured: True
+[2025-02-23 18:44:40Z INFO ConfigurationManager] Is configured: True
+[2025-02-23 18:44:40Z INFO Runner] Could not parse the argument value '' for StartupType. Defaulting to Manual
+[2025-02-23 18:44:40Z INFO Runner] Set runner startup type - Manual
+[2025-02-23 18:44:40Z INFO CommandSettings] Flag 'once': 'False'
+[2025-02-23 18:44:40Z INFO CommandSettings] Flag 'once': 'False'
+[2025-02-23 18:44:40Z INFO Runner] RunAsync
+[2025-02-23 18:44:40Z INFO ConfigurationManager] LoadSettings
+[2025-02-23 18:44:40Z INFO ConfigurationStore] IsConfigured()
+[2025-02-23 18:44:40Z INFO ConfigurationStore] IsConfigured: True
+[2025-02-23 18:44:40Z INFO ConfigurationManager] Is configured: True
+[2025-02-23 18:44:40Z INFO ConfigurationManager] Settings Loaded
+[2025-02-23 18:44:40Z INFO MessageListener] {
+  "AgentId": 22,
+  "AgentName": "self-hosted",
+  "PoolId": 1,
+  "PoolName": "Default",
+  "ServerUrl": "https://pipelinesghubeus3.actions.githubusercontent.com/AyDAPIb5VCF2gZR5youabJnTFnO9DDRm6vSFq8q4mRKrg07Hzp/",
+  "GitHubUrl": "https://github.com/shashankpandey27/StreamlitApp_Deploy",
+  "WorkFolder": "_work"
+}
+[2025-02-23 18:44:40Z INFO MessageListener] Loading Credentials
+[2025-02-23 18:44:40Z INFO ConfigurationStore] HasCredentials()
+[2025-02-23 18:44:40Z INFO ConfigurationStore] stored True
+[2025-02-23 18:44:40Z INFO CredentialManager] GetCredentialProvider
+[2025-02-23 18:44:40Z INFO CredentialManager] Creating type OAuth
+[2025-02-23 18:44:40Z INFO CredentialManager] Creating credential type: OAuth
+[2025-02-23 18:44:40Z INFO HostContext] Well known directory 'Bin': 'C:\Users\spande46\Downloads\streamlit_app\actions-runner\bin'
+[2025-02-23 18:44:40Z INFO HostContext] Well known directory 'Root': 'C:\Users\spande46\Downloads\streamlit_app\actions-runner'
+[2025-02-23 18:44:40Z INFO HostContext] Well known config file 'RSACredentials': 'C:\Users\spande46\Downloads\streamlit_app\actions-runner\.credentials_rsaparams'
+[2025-02-23 18:44:40Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\spande46\Downloads\streamlit_app\actions-runner\.credentials_rsaparams
+[2025-02-23 18:44:40Z INFO MessageListener] Attempt to create session.
+[2025-02-23 18:44:40Z INFO MessageListener] Connecting to the Runner Server...
+[2025-02-23 18:44:40Z INFO RunnerServer] EstablishVssConnection
+[2025-02-23 18:44:40Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2025-02-23 18:44:40Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-02-23 18:44:40Z INFO RunnerServer] EstablishVssConnection
+[2025-02-23 18:44:40Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-02-23 18:44:40Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-02-23 18:44:40Z INFO RunnerServer] EstablishVssConnection
+[2025-02-23 18:44:40Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2025-02-23 18:44:40Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-02-23 18:44:41Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-02-23 18:44:41Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-02-23 18:44:41Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-02-23 18:44:41Z INFO MessageListener] VssConnection created
+[2025-02-23 18:44:41Z INFO Terminal] WRITE LINE: 
+[2025-02-23 18:44:41Z INFO Terminal] WRITE LINE: 
+[2025-02-23 18:44:42Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\spande46\Downloads\streamlit_app\actions-runner\.credentials_rsaparams
+[2025-02-23 18:44:42Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\spande46\Downloads\streamlit_app\actions-runner\.credentials_rsaparams
+[2025-02-23 18:44:43Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-02-23 18:44:43Z INFO MessageListener] Session created.
+[2025-02-23 18:44:43Z INFO Terminal] WRITE LINE: Current runner version: '2.322.0'
+[2025-02-23 18:44:43Z INFO Terminal] WRITE LINE: 2025-02-23 18:44:43Z: Listening for Jobs
+[2025-02-23 18:44:43Z INFO JobDispatcher] Set runner/worker IPC timeout to 30 seconds.
+[2025-02-23 18:44:43Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\spande46\Downloads\streamlit_app\actions-runner\.credentials_rsaparams
+[2025-02-23 18:44:44Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-02-23 18:44:46Z INFO MessageListener] Message '1865207143510408907' received from session 'eab2ff8b-1dfc-431e-8015-7a2680007d34'.
+[2025-02-23 18:44:46Z INFO ConfigurationStore] HasCredentials()
+[2025-02-23 18:44:46Z INFO ConfigurationStore] stored True
+[2025-02-23 18:44:46Z INFO CredentialManager] GetCredentialProvider
+[2025-02-23 18:44:46Z INFO CredentialManager] Creating type OAuth
+[2025-02-23 18:44:46Z INFO CredentialManager] Creating credential type: OAuth
+[2025-02-23 18:44:46Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\spande46\Downloads\streamlit_app\actions-runner\.credentials_rsaparams
+[2025-02-23 18:44:46Z INFO ActionsRunServer] EstablishVssConnection
+[2025-02-23 18:44:46Z INFO ActionsRunServer] Establish connection with 100 seconds timeout.
+[2025-02-23 18:44:46Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-02-23 18:44:47Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-02-23 18:44:47Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\spande46\Downloads\streamlit_app\actions-runner\.credentials_rsaparams
+[2025-02-23 18:44:47Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\spande46\Downloads\streamlit_app\actions-runner\.credentials_rsaparams
+[2025-02-23 18:44:48Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-02-23 18:44:49Z INFO JobDispatcher] Job request 8 for plan cfa87f9b-8d1f-4c2d-9148-09d1befd35f3 job e07742bd-189a-5079-918b-43f8b2f94b89 received.
+[2025-02-23 18:44:49Z INFO JobDispatcher] Pull OrchestrationId cfa87f9b-8d1f-4c2d-9148-09d1befd35f3.deploy.__default from JWT claims
+[2025-02-23 18:44:49Z INFO MessageListener] Received job status event. JobState: Busy
+[2025-02-23 18:44:49Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2025-02-23 18:44:49Z INFO Terminal] WRITE LINE: 2025-02-23 18:44:49Z: Running job: deploy
+[2025-02-23 18:44:49Z INFO JobDispatcher] Start renew job request 8 for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2025-02-23 18:44:49Z INFO JobDispatcher] Successfully renew job request 8, job is valid till 2/23/2025 6:54:49 PM
+[2025-02-23 18:44:49Z INFO HostContext] Well known directory 'Bin': 'C:\Users\spande46\Downloads\streamlit_app\actions-runner\bin'
+[2025-02-23 18:44:49Z INFO ProcessInvokerWrapper] Starting process:
+[2025-02-23 18:44:49Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\spande46\Downloads\streamlit_app\actions-runner\bin\Runner.Worker.exe'
+[2025-02-23 18:44:49Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2092 2248'
+[2025-02-23 18:44:49Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\spande46\Downloads\streamlit_app\actions-runner\bin'
+[2025-02-23 18:44:49Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-02-23 18:44:49Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-02-23 18:44:49Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-02-23 18:44:49Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-02-23 18:44:49Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-02-23 18:44:49Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-02-23 18:44:49Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-02-23 18:44:49Z INFO ProcessInvokerWrapper] Process started with process id 23260, waiting for process exit.
+[2025-02-23 18:44:49Z INFO JobDispatcher] Send job request message to worker for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2025-02-23 18:44:49Z INFO ProcessChannel] Sending message of length 24724, with hash '304c342555a6b526324c9a84a6fc09c0353ec32cc1537dfab5260b52957aaf66'
+[2025-02-23 18:44:50Z INFO JobNotification] Entering JobStarted Notification
+[2025-02-23 18:44:50Z INFO JobNotification] Entering StartMonitor
+[2025-02-23 18:45:49Z INFO JobDispatcher] Successfully renew job request 8, job is valid till 2/23/2025 6:55:49 PM
+[2025-02-23 18:45:55Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-02-23 18:45:55Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-02-23 18:45:55Z INFO ProcessInvokerWrapper] Finished process 23260 with exit code 100, and elapsed time 00:01:06.0166874.
+[2025-02-23 18:45:55Z INFO JobDispatcher] Worker finished for job e07742bd-189a-5079-918b-43f8b2f94b89. Code: 100
+[2025-02-23 18:45:55Z INFO JobDispatcher] finish job request for job e07742bd-189a-5079-918b-43f8b2f94b89 with result: Succeeded
+[2025-02-23 18:45:55Z INFO Terminal] WRITE LINE: 2025-02-23 18:45:55Z: Job deploy completed with result: Succeeded
+[2025-02-23 18:45:55Z INFO JobDispatcher] Stop renew job request for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2025-02-23 18:45:55Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 8.
+[2025-02-23 18:45:55Z INFO JobNotification] Entering JobCompleted Notification
+[2025-02-23 18:45:55Z INFO JobNotification] Entering EndMonitor
+[2025-02-23 18:45:55Z INFO MessageListener] Received job status event. JobState: Online
+[2025-02-23 18:45:56Z INFO MessageListener] Message '1046427417239119537' received from session 'eab2ff8b-1dfc-431e-8015-7a2680007d34'.
+[2025-02-23 18:45:56Z INFO ConfigurationStore] HasCredentials()
+[2025-02-23 18:45:56Z INFO ConfigurationStore] stored True
+[2025-02-23 18:45:56Z INFO CredentialManager] GetCredentialProvider
+[2025-02-23 18:45:56Z INFO CredentialManager] Creating type OAuth
+[2025-02-23 18:45:56Z INFO CredentialManager] Creating credential type: OAuth
+[2025-02-23 18:45:56Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\spande46\Downloads\streamlit_app\actions-runner\.credentials_rsaparams
+[2025-02-23 18:45:56Z INFO ActionsRunServer] EstablishVssConnection
+[2025-02-23 18:45:56Z INFO ActionsRunServer] Establish connection with 100 seconds timeout.
+[2025-02-23 18:45:56Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-02-23 18:45:57Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-02-23 18:45:57Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\spande46\Downloads\streamlit_app\actions-runner\.credentials_rsaparams
+[2025-02-23 18:45:57Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\spande46\Downloads\streamlit_app\actions-runner\.credentials_rsaparams
+[2025-02-23 18:45:58Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-02-23 18:45:58Z INFO JobDispatcher] Job request 9 for plan edaa591e-ec6e-4a92-943d-7237d45d0b0a job e07742bd-189a-5079-918b-43f8b2f94b89 received.
+[2025-02-23 18:45:58Z INFO JobDispatcher] Pull OrchestrationId edaa591e-ec6e-4a92-943d-7237d45d0b0a.deploy.__default from JWT claims
+[2025-02-23 18:45:58Z INFO MessageListener] Received job status event. JobState: Busy
+[2025-02-23 18:45:58Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2025-02-23 18:45:58Z INFO JobDispatcher] Job request e07742bd-189a-5079-918b-43f8b2f94b89 processed succeed.
+[2025-02-23 18:45:58Z INFO Terminal] WRITE LINE: 2025-02-23 18:45:58Z: Running job: deploy
+[2025-02-23 18:45:58Z INFO JobDispatcher] Start renew job request 9 for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2025-02-23 18:45:58Z INFO JobDispatcher] Successfully renew job request 9, job is valid till 2/23/2025 6:55:58 PM
+[2025-02-23 18:45:58Z INFO HostContext] Well known directory 'Bin': 'C:\Users\spande46\Downloads\streamlit_app\actions-runner\bin'
+[2025-02-23 18:45:58Z INFO ProcessInvokerWrapper] Starting process:
+[2025-02-23 18:45:58Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\spande46\Downloads\streamlit_app\actions-runner\bin\Runner.Worker.exe'
+[2025-02-23 18:45:58Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2252 2380'
+[2025-02-23 18:45:58Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\spande46\Downloads\streamlit_app\actions-runner\bin'
+[2025-02-23 18:45:58Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-02-23 18:45:58Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-02-23 18:45:58Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-02-23 18:45:58Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-02-23 18:45:58Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-02-23 18:45:58Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-02-23 18:45:58Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-02-23 18:45:58Z INFO ProcessInvokerWrapper] Process started with process id 21320, waiting for process exit.
+[2025-02-23 18:45:58Z INFO JobDispatcher] Send job request message to worker for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2025-02-23 18:45:58Z INFO ProcessChannel] Sending message of length 24724, with hash '7df730d8f0d6d1540142c1a329588e6b749bffbe0ed78d57095a158575a8ee21'
+[2025-02-23 18:45:59Z INFO JobNotification] Entering JobStarted Notification
+[2025-02-23 18:45:59Z INFO JobNotification] Entering StartMonitor
+[2025-02-23 18:46:59Z INFO JobDispatcher] Successfully renew job request 9, job is valid till 2/23/2025 6:56:58 PM
+[2025-02-23 18:47:09Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-02-23 18:47:09Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-02-23 18:47:09Z INFO ProcessInvokerWrapper] Finished process 21320 with exit code 100, and elapsed time 00:01:10.3834581.
+[2025-02-23 18:47:09Z INFO JobDispatcher] Worker finished for job e07742bd-189a-5079-918b-43f8b2f94b89. Code: 100
+[2025-02-23 18:47:09Z INFO JobDispatcher] finish job request for job e07742bd-189a-5079-918b-43f8b2f94b89 with result: Succeeded
+[2025-02-23 18:47:09Z INFO Terminal] WRITE LINE: 2025-02-23 18:47:09Z: Job deploy completed with result: Succeeded
+[2025-02-23 18:47:09Z INFO JobDispatcher] Stop renew job request for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2025-02-23 18:47:09Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 9.
+[2025-02-23 18:47:09Z INFO JobNotification] Entering JobCompleted Notification
+[2025-02-23 18:47:09Z INFO JobNotification] Entering EndMonitor
+[2025-02-23 18:47:09Z INFO MessageListener] Received job status event. JobState: Online
+[2025-02-23 18:47:10Z INFO MessageListener] Message '6057322684253230219' received from session 'eab2ff8b-1dfc-431e-8015-7a2680007d34'.
+[2025-02-23 18:47:10Z INFO ConfigurationStore] HasCredentials()
+[2025-02-23 18:47:10Z INFO ConfigurationStore] stored True
+[2025-02-23 18:47:10Z INFO CredentialManager] GetCredentialProvider
+[2025-02-23 18:47:10Z INFO CredentialManager] Creating type OAuth
+[2025-02-23 18:47:10Z INFO CredentialManager] Creating credential type: OAuth
+[2025-02-23 18:47:10Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\spande46\Downloads\streamlit_app\actions-runner\.credentials_rsaparams
+[2025-02-23 18:47:10Z INFO ActionsRunServer] EstablishVssConnection
+[2025-02-23 18:47:10Z INFO ActionsRunServer] Establish connection with 100 seconds timeout.
+[2025-02-23 18:47:10Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-02-23 18:47:10Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-02-23 18:47:11Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\spande46\Downloads\streamlit_app\actions-runner\.credentials_rsaparams
+[2025-02-23 18:47:11Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\spande46\Downloads\streamlit_app\actions-runner\.credentials_rsaparams
+[2025-02-23 18:47:11Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-02-23 18:47:12Z INFO JobDispatcher] Job request 10 for plan d354265a-61f2-46aa-9376-48f0fa3b7cba job e07742bd-189a-5079-918b-43f8b2f94b89 received.
+[2025-02-23 18:47:12Z INFO JobDispatcher] Pull OrchestrationId d354265a-61f2-46aa-9376-48f0fa3b7cba.deploy.__default from JWT claims
+[2025-02-23 18:47:12Z INFO MessageListener] Received job status event. JobState: Busy
+[2025-02-23 18:47:12Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2025-02-23 18:47:12Z INFO JobDispatcher] Job request e07742bd-189a-5079-918b-43f8b2f94b89 processed succeed.
+[2025-02-23 18:47:12Z INFO Terminal] WRITE LINE: 2025-02-23 18:47:12Z: Running job: deploy
+[2025-02-23 18:47:12Z INFO JobDispatcher] Start renew job request 10 for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2025-02-23 18:47:12Z INFO JobDispatcher] Successfully renew job request 10, job is valid till 2/23/2025 6:57:12 PM
+[2025-02-23 18:47:12Z INFO HostContext] Well known directory 'Bin': 'C:\Users\spande46\Downloads\streamlit_app\actions-runner\bin'
+[2025-02-23 18:47:12Z INFO ProcessInvokerWrapper] Starting process:
+[2025-02-23 18:47:12Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\spande46\Downloads\streamlit_app\actions-runner\bin\Runner.Worker.exe'
+[2025-02-23 18:47:12Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2456 1576'
+[2025-02-23 18:47:12Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\spande46\Downloads\streamlit_app\actions-runner\bin'
+[2025-02-23 18:47:12Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-02-23 18:47:12Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-02-23 18:47:12Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-02-23 18:47:12Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-02-23 18:47:12Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-02-23 18:47:12Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-02-23 18:47:12Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-02-23 18:47:12Z INFO ProcessInvokerWrapper] Process started with process id 42288, waiting for process exit.
+[2025-02-23 18:47:12Z INFO JobDispatcher] Send job request message to worker for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2025-02-23 18:47:12Z INFO ProcessChannel] Sending message of length 24737, with hash '01a334e85b52e6e900e674831c2658bf39b8c4afbaf75cef7e5911c3e1fe8001'
+[2025-02-23 18:47:13Z INFO JobNotification] Entering JobStarted Notification
+[2025-02-23 18:47:13Z INFO JobNotification] Entering StartMonitor
+[2025-02-23 18:48:12Z INFO JobDispatcher] Successfully renew job request 10, job is valid till 2/23/2025 6:58:12 PM
+[2025-02-23 18:48:18Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-02-23 18:48:18Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-02-23 18:48:18Z INFO ProcessInvokerWrapper] Finished process 42288 with exit code 100, and elapsed time 00:01:06.4106936.
+[2025-02-23 18:48:18Z INFO JobDispatcher] Worker finished for job e07742bd-189a-5079-918b-43f8b2f94b89. Code: 100
+[2025-02-23 18:48:18Z INFO JobDispatcher] finish job request for job e07742bd-189a-5079-918b-43f8b2f94b89 with result: Succeeded
+[2025-02-23 18:48:18Z INFO Terminal] WRITE LINE: 2025-02-23 18:48:18Z: Job deploy completed with result: Succeeded
+[2025-02-23 18:48:18Z INFO JobDispatcher] Stop renew job request for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2025-02-23 18:48:18Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 10.
+[2025-02-23 18:48:18Z INFO JobNotification] Entering JobCompleted Notification
+[2025-02-23 18:48:18Z INFO JobNotification] Entering EndMonitor
+[2025-02-23 18:48:18Z INFO MessageListener] Received job status event. JobState: Online
+[2025-02-23 18:54:27Z INFO MessageListener] Message '2556812002912179900' received from session 'eab2ff8b-1dfc-431e-8015-7a2680007d34'.
+[2025-02-23 18:54:27Z INFO ConfigurationStore] HasCredentials()
+[2025-02-23 18:54:27Z INFO ConfigurationStore] stored True
+[2025-02-23 18:54:27Z INFO CredentialManager] GetCredentialProvider
+[2025-02-23 18:54:27Z INFO CredentialManager] Creating type OAuth
+[2025-02-23 18:54:27Z INFO CredentialManager] Creating credential type: OAuth
+[2025-02-23 18:54:27Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\spande46\Downloads\streamlit_app\actions-runner\.credentials_rsaparams
+[2025-02-23 18:54:27Z INFO ActionsRunServer] EstablishVssConnection
+[2025-02-23 18:54:27Z INFO ActionsRunServer] Establish connection with 100 seconds timeout.
+[2025-02-23 18:54:27Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2025-02-23 18:54:28Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2025-02-23 18:54:28Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\spande46\Downloads\streamlit_app\actions-runner\.credentials_rsaparams
+[2025-02-23 18:54:28Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file C:\Users\spande46\Downloads\streamlit_app\actions-runner\.credentials_rsaparams
+[2025-02-23 18:54:29Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2025-02-23 18:54:30Z INFO JobDispatcher] Job request 11 for plan 5bed4cd5-176f-4309-b886-8b71860f1157 job e07742bd-189a-5079-918b-43f8b2f94b89 received.
+[2025-02-23 18:54:30Z INFO JobDispatcher] Pull OrchestrationId 5bed4cd5-176f-4309-b886-8b71860f1157.deploy.__default from JWT claims
+[2025-02-23 18:54:30Z INFO MessageListener] Received job status event. JobState: Busy
+[2025-02-23 18:54:30Z INFO MessageListener] _getMessagesTokenSource is already disposed.
+[2025-02-23 18:54:30Z INFO JobDispatcher] Job request e07742bd-189a-5079-918b-43f8b2f94b89 processed succeed.
+[2025-02-23 18:54:30Z INFO Terminal] WRITE LINE: 2025-02-23 18:54:30Z: Running job: deploy
+[2025-02-23 18:54:30Z INFO JobDispatcher] Start renew job request 11 for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2025-02-23 18:54:31Z INFO JobDispatcher] Successfully renew job request 11, job is valid till 2/23/2025 7:04:30 PM
+[2025-02-23 18:54:31Z INFO HostContext] Well known directory 'Bin': 'C:\Users\spande46\Downloads\streamlit_app\actions-runner\bin'
+[2025-02-23 18:54:31Z INFO ProcessInvokerWrapper] Starting process:
+[2025-02-23 18:54:31Z INFO ProcessInvokerWrapper]   File name: 'C:\Users\spande46\Downloads\streamlit_app\actions-runner\bin\Runner.Worker.exe'
+[2025-02-23 18:54:31Z INFO ProcessInvokerWrapper]   Arguments: 'spawnclient 2288 2400'
+[2025-02-23 18:54:31Z INFO ProcessInvokerWrapper]   Working directory: 'C:\Users\spande46\Downloads\streamlit_app\actions-runner\bin'
+[2025-02-23 18:54:31Z INFO ProcessInvokerWrapper]   Require exit code zero: 'False'
+[2025-02-23 18:54:31Z INFO ProcessInvokerWrapper]   Encoding web name:  ; code page: ''
+[2025-02-23 18:54:31Z INFO ProcessInvokerWrapper]   Force kill process on cancellation: 'True'
+[2025-02-23 18:54:31Z INFO ProcessInvokerWrapper]   Redirected STDIN: 'False'
+[2025-02-23 18:54:31Z INFO ProcessInvokerWrapper]   Persist current code page: 'False'
+[2025-02-23 18:54:31Z INFO ProcessInvokerWrapper]   Keep redirected STDIN open: 'False'
+[2025-02-23 18:54:31Z INFO ProcessInvokerWrapper]   High priority process: 'True'
+[2025-02-23 18:54:31Z INFO ProcessInvokerWrapper] Process started with process id 27756, waiting for process exit.
+[2025-02-23 18:54:31Z INFO JobDispatcher] Send job request message to worker for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2025-02-23 18:54:31Z INFO ProcessChannel] Sending message of length 24737, with hash '697997e866c527fa790d8b52f6b23d70295d9c9e903bc5650a74eaf1cff45adf'
+[2025-02-23 18:54:31Z INFO JobNotification] Entering JobStarted Notification
+[2025-02-23 18:54:31Z INFO JobNotification] Entering StartMonitor
+[2025-02-23 18:55:31Z INFO JobDispatcher] Successfully renew job request 11, job is valid till 2/23/2025 7:05:31 PM
+[2025-02-23 18:55:53Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-02-23 18:55:53Z INFO ProcessInvokerWrapper] STDOUT/STDERR stream read finished.
+[2025-02-23 18:55:53Z INFO ProcessInvokerWrapper] Finished process 27756 with exit code 100, and elapsed time 00:01:22.0709751.
+[2025-02-23 18:55:53Z INFO JobDispatcher] Worker finished for job e07742bd-189a-5079-918b-43f8b2f94b89. Code: 100
+[2025-02-23 18:55:53Z INFO JobDispatcher] finish job request for job e07742bd-189a-5079-918b-43f8b2f94b89 with result: Succeeded
+[2025-02-23 18:55:53Z INFO Terminal] WRITE LINE: 2025-02-23 18:55:53Z: Job deploy completed with result: Succeeded
+[2025-02-23 18:55:53Z INFO JobDispatcher] Stop renew job request for job e07742bd-189a-5079-918b-43f8b2f94b89.
+[2025-02-23 18:55:53Z INFO JobDispatcher] job renew has been cancelled, stop renew job request 11.
+[2025-02-23 18:55:53Z INFO JobNotification] Entering JobCompleted Notification
+[2025-02-23 18:55:53Z INFO JobNotification] Entering EndMonitor
+[2025-02-23 18:55:53Z INFO MessageListener] Received job status event. JobState: Online
