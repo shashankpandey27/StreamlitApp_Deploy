@@ -1,0 +1,12 @@
+﻿{
+  "repositoryName": "shashankpandey27/StreamlitApp_Deploy",
+  "pipelineDirectory": "StreamlitApp_Deploy",
+  "workspaceDirectory": "StreamlitApp_Deploy\\StreamlitApp_Deploy",
+  "repositories": {
+    "shashankpandey27/StreamlitApp_Deploy": {
+      "repositoryPath": "StreamlitApp_Deploy\\StreamlitApp_Deploy",
+      "lastRunOn": "02/23/2025 22:44:51 +04:00"
+    }
+  },
+  "lastRunOn": "02/23/2025 22:47:14 +04:00"
+}
