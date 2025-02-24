@@ -1,0 +1,17 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment files
+.env
+venv/
+
+# Ignore data or logs (if not needed in repo)
+data/*.csv
+logs/
+
+# Ignore Streamlit secrets (if using streamlit secrets manager)
+.streamlit/secrets.toml
+
+# Ignore runners 
+actions-runner
